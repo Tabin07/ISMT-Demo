@@ -4,8 +4,5 @@
 </head>
 <body>
 	<p>	This is jut an example of the Git Hub</p>
-	<p>This is Modify Code</p>
 </body>
 </html>
-
- 
